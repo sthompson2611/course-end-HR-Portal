@@ -1,8 +1,9 @@
-
+import Nav from "../Components/Nav/nav";
 
 const HrPage = () => {
     return (
-        <p>HR Page</p>
+       <Nav />
+        
     );
 }
 
